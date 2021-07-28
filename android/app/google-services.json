@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "157477974095",
+    "project_id": "final-project-yara",
+    "storage_bucket": "final-project-yara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:157477974095:android:84c202e1d290288fd8fa3a",
+        "android_client_info": {
+          "package_name": "com.example.final_project_yara"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "157477974095-m0qfq89lskt95i7tureac0tlpul1hov8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.final_project_yara",
+            "certificate_hash": "5e1acd238303d18d6fa90f1e5ae115d2d2f373f9"
+          }
+        },
+        {
+          "client_id": "157477974095-0psrfns5cf2h17berp2rb14u41goni9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mm2oh79HDcEK16JWINvl9NPyqx3AjMU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "157477974095-0psrfns5cf2h17berp2rb14u41goni9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
